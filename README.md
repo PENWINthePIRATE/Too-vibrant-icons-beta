@@ -1,6 +1,8 @@
  Too-vibrant-icons-beta
 still in devlopment
 
+
+<h2>This project has been abandoned and will be brought back with enough request, willing to make a remake on this as i see this icon pack as half baked. Please look on to my newer projects and more comming soon</h2>
 ![Alt Text](imgs/icons.png)
 
 
